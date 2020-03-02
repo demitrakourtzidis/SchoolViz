@@ -1,5 +1,6 @@
 # School Spending
 
+![School Spending](ehschools.png)
 Source: http://ehhs.org/documents/apptegy/district/2017-2018/2018-19%20Budget/Budget-Notes-18-19.pdf
 
 I decided to redesign this chart because this is my hometown, and the school budget is an issue every year. It's decided by a referendum, so it gets very heated and political. Even after I graduated high school, I had to go back and hold up a "Vote Yes" sign on a busy street because the volleyball team was on the chopping block. If it wasn't so terrible, it would be funny. 
