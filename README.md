@@ -1,4 +1,5 @@
 # School Spending
+[Return to my portfolio](https://demitrakourtzidis.github.io/portfolio/)
 
 ![School Spending](ehschools.png)
 Source: http://ehhs.org/documents/apptegy/district/2017-2018/2018-19%20Budget/Budget-Notes-18-19.pdf
